@@ -33,6 +33,12 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+<br>
+<img src="https://raw.githubusercontent.com/Dewan-Mohammad-Tasinuzzaman/Music_Player_App_Audiowave/main/Screenshot-Desktop-01.PNG">
+<img src="https://raw.githubusercontent.com/Dewan-Mohammad-Tasinuzzaman/Music_Player_App_Audiowave/main/Screenshot-Desktop-02.PNG">
+<img src="https://raw.githubusercontent.com/Dewan-Mohammad-Tasinuzzaman/Music_Player_App_Audiowave/main/Screenshot-Phone-01.PNG">
+<img src="https://raw.githubusercontent.com/Dewan-Mohammad-Tasinuzzaman/Music_Player_App_Audiowave/main/Screenshot-Phone-02.PNG">
+
 ### Authors
 Gavin Bosman - SID: 100781902 <br>
 Dewan Mohammad Tasinuzzaman - SID: 100791988<br>
