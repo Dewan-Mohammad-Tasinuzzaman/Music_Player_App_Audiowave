@@ -36,8 +36,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <br>
 <img src="https://raw.githubusercontent.com/Dewan-Mohammad-Tasinuzzaman/Music_Player_App_Audiowave/main/Screenshot-Desktop-01.PNG">
 <img src="https://raw.githubusercontent.com/Dewan-Mohammad-Tasinuzzaman/Music_Player_App_Audiowave/main/Screenshot-Desktop-02.PNG">
-<img src="https://raw.githubusercontent.com/Dewan-Mohammad-Tasinuzzaman/Music_Player_App_Audiowave/main/Screenshot-Phone-01.PNG">
-<img src="https://raw.githubusercontent.com/Dewan-Mohammad-Tasinuzzaman/Music_Player_App_Audiowave/main/Screenshot-Phone-02.PNG">
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/Dewan-Mohammad-Tasinuzzaman/Music_Player_App_Audiowave/main/Screenshot-Phone-01.PNG">
+  <img src="https://raw.githubusercontent.com/Dewan-Mohammad-Tasinuzzaman/Music_Player_App_Audiowave/main/Screenshot-Phone-02.PNG">
+</div>
 
 ### Authors
 Gavin Bosman - SID: 100781902 <br>
