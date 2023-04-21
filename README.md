@@ -1,4 +1,4 @@
-# music-player web application
+# Music-Player Web Application
 
 Original Repository: https://github.com/Gavin-Bosman/MusicPlayerWebApp <br>
 
