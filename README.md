@@ -1,8 +1,7 @@
 # Music-Player Web Application
 
 Designed a prototype in Figma and then coded the entire front-end/UI for the app using Vue.js. <br>
-Created components (eg: functioning side-bar, SongItem, PlayerControls, PlaylistItem...), animations, buttons, etc. where needed and refined the UI. <br>
-Finally, made the whole app responsive so it works on all devices. <br>
+Created components (eg: functioning side-bar, SongItem, PlayerControls, PlaylistItem...), animations, buttons, etc. where needed and refined the UI. Finally, made the whole app responsive so it works on all devices. <br>
 
 Original Repository: https://github.com/Gavin-Bosman/MusicPlayerWebApp <br>
 
