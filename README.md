@@ -46,7 +46,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   <img src="https://raw.githubusercontent.com/Dewan-Mohammad-Tasinuzzaman/Music_Player_App_Audiowave/main/Screenshot-Phone-02.PNG" style="margin-left: 10px;">
 </div>
 
-### Authors (Ontario Tech University - Group Porject)
+### Authors (Ontario Tech University - Course Group Project)
 Dewan Mohammad Tasinuzzaman - SID: 100791988<br>
 Gavin Bosman - SID: 100781902 <br>
 Mekael Wasti - SID: 100780179 <br>
