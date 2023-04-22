@@ -46,10 +46,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   <img src="https://raw.githubusercontent.com/Dewan-Mohammad-Tasinuzzaman/Music_Player_App_Audiowave/main/Screenshot-Phone-02.PNG" style="margin-left: 10px;">
 </div>
 
-### Authors
-Gavin Bosman - SID: 100781902 <br>
+### Authors (Ontario Tech University - Group Porject)
 Dewan Mohammad Tasinuzzaman - SID: 100791988<br>
+Gavin Bosman - SID: 100781902 <br>
 Mekael Wasti - SID: 100780179 <br>
-.Mohammad-STD:100755461<br>
+.Mohammad - SID: 100755461<br>
 Moharaj Oritro - SID: 100785545 <br>
 Eric D'Souza - SID: 100782796 <br>
