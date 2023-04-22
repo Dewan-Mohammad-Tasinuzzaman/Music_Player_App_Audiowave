@@ -5,6 +5,8 @@ Created components (eg: functioning side-bar, SongItem, PlayerControls, Playlist
 
 Original Repository: https://github.com/Gavin-Bosman/MusicPlayerWebApp <br>
 
+This repository may have an updated version of the app compared to the what is in the Original Repository as I may update and improve the app by myself in this repository. The contributions of the other members are written down in the Contributions.txt file. <br>
+
 Video:
 https://youtu.be/TsqQX_OQNnM
 
